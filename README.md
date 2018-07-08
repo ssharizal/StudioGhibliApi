@@ -2,7 +2,7 @@
 Web App Access Studio Ghibli Movies API
 
 ## API 
-[https://ghibliapi.herokuapp.com/#tag/Films](GET /films)
+[https://ghibliapi.herokuapp.com/#tag/Films](https://ghibliapi.herokuapp.com/#tag/Films)
 
 ![Screen shot](https://github.com/ssharizal/StudioGhibliApi/blob/master/studioGhibli.JPG)
 
